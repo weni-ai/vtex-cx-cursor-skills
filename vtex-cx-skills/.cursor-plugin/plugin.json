@@ -1,0 +1,19 @@
+{
+  "name": "vtex-cx-skills",
+  "description": "Skills de engenharia VTEX CX: gera a constitution Speckit do projeto e fornece o contexto do design system Unnnic para implementação de UI",
+  "version": "1.1.0",
+  "author": {
+    "name": "VTEX CX"
+  },
+  "homepage": "https://github.com/weni-ai/vtex-cx-engineering-skills",
+  "repository": "https://github.com/weni-ai/vtex-cx-engineering-skills",
+  "keywords": [
+    "speckit",
+    "constitution",
+    "engineering",
+    "vtex-cx",
+    "design-system",
+    "unnnic",
+    "vue"
+  ]
+}

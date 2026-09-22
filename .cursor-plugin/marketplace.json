@@ -1,16 +1,16 @@
 {
-  "name": "vtex-cx-engineering-skills",
+  "name": "vtex-cx-skills",
   "owner": {
-    "name": "Weni"
+    "name": "VTEX CX"
   },
   "metadata": {
     "description": "Skills de engenharia VTEX CX para desenvolvimento assistido por IA"
   },
   "plugins": [
     {
-      "name": "setup-engineering",
-      "source": "setup-engineering",
-      "description": "Gera a constitution Speckit de um projeto a partir das constitutions base da engenharia VTEX CX"
+      "name": "vtex-cx-skills",
+      "source": "vtex-cx-skills",
+      "description": "Skills de engenharia VTEX CX: gera a constitution Speckit do projeto e fornece o contexto do design system Unnnic para implementação de UI"
     }
   ]
 }

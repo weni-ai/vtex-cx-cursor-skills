@@ -1,3 +1,13 @@
+---
+name: unnnic
+description: >-
+  Provides context for the Unnnic Design System (@weni/unnnic-system):
+  components, SCSS tokens, and usage patterns. Use when the user implements UI
+  with Unnnic, asks for UnnnicButton, UnnnicInput, UnnnicDataTable, unnnic
+  tokens, unnnic design system, or converts a Figma design into Weni frontend
+  components.
+---
+
 # Unnnic Design System
 
 Use this skill when implementing UI with Weni's Unnnic Design System (`@weni/unnnic-system`).
