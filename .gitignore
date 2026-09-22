@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Editores e SO
+.DS_Store
+.vscode/
+.idea/
+
+# Ambientes locais
+.venv/
+venv/
+.env

@@ -1,0 +1,11 @@
+{
+  "name": "setup-engineering",
+  "description": "Gera a constitution Speckit de um projeto a partir das constitutions base da engenharia VTEX CX",
+  "version": "1.0.0",
+  "author": {
+    "name": "Weni"
+  },
+  "homepage": "https://github.com/weni-ai/vtex-cx-engineering-skills",
+  "repository": "https://github.com/weni-ai/vtex-cx-engineering-skills",
+  "keywords": ["speckit", "constitution", "engineering", "vtex-cx"]
+}
