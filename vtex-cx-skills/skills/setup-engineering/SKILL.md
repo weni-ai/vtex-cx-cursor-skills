@@ -5,7 +5,7 @@ description: >-
   a partir das constitutions base (raiz + domínio) do repositório
   vtex-cx-engineering-constitutions. Exige specify init. Use when the user
   asks to setup engineering, gerar constitution, speckit constitution,
-  setup-engineering, or bootstrap engineering rules for a backend, frontend,
+  setup-engineering, or bootstrap engineering rules for a backend, frontend, frontend-platform
   or cloud project.
 ---
 
@@ -40,6 +40,7 @@ Branch: `main`
 | Engenharia (sempre) | `base-constitution.md` |
 | Backend | `backend/base-constitution.md` |
 | Frontend | `frontend/base-constitution.md` |
+| Frontend Platform | `frontend-platform/base-constitution.md` |
 | Cloud | `cloud/base-constitution.md` |
 
 ## Workflow
