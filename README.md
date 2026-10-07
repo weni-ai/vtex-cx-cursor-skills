@@ -17,6 +17,10 @@ vtex-cx-skills/                    # um plugin
     │   ├── SKILL.md
     │   ├── reference.md
     │   └── scripts/
+    ├── define-architecture/
+    │   ├── SKILL.md
+    │   ├── reference.md
+    │   └── template.md
     └── unnnic/
         └── SKILL.md
 ```
@@ -32,6 +36,7 @@ Todas no plugin `vtex-cx-skills`:
 | Skill | O que faz |
 |-------|-----------|
 | `setup-engineering` | Gera a constitution Speckit do projeto em `.specify/memory/constitution.md` a partir das constitutions base de [vtex-cx-engineering-constitutions](https://github.com/weni-ai/vtex-cx-engineering-constitutions) |
+| `define-architecture` | Gera ou emenda o Architecture Document de uma feature no repositório de specs do produto: avalia a necessidade (`full`, `contract-only`, `not-required`), lê a Product Spec fixada e as constitutions dos submodules impactados e produz os contratos legíveis por máquina que frontend e backend implementam em paralelo |
 | `unnnic` | Contexto do design system [Unnnic](https://github.com/weni-ai/unnnic) — componentes, tokens e padrões — para implementação de UI. Migrada do plugin `weni-ai-unnnic` (v3.33.0); desinstale aquele plugin para não manter duas cópias |
 
 ## Instalação

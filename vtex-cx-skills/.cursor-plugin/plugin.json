@@ -1,7 +1,7 @@
 {
   "name": "vtex-cx-skills",
-  "description": "Skills de engenharia VTEX CX: gera a constitution Speckit do projeto e fornece o contexto do design system Unnnic para implementação de UI",
-  "version": "1.1.0",
+  "description": "Skills de engenharia VTEX CX: gera a constitution Speckit do projeto, gera o Architecture Document que contrata frontend e backend de uma feature e fornece o contexto do design system Unnnic para implementação de UI",
+  "version": "1.2.0",
   "author": {
     "name": "VTEX CX"
   },
@@ -10,6 +10,8 @@
   "keywords": [
     "speckit",
     "constitution",
+    "architecture",
+    "contracts",
     "engineering",
     "vtex-cx",
     "design-system",
